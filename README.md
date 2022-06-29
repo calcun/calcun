@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Caleb C
-- 👀 I’m interested in Music, Games and Technology
+- 👀 I’m interested in Technology, Music, and Games
 - 🌱 I’m currently working with (and learning) Oracle APEX, SQL, PLSQL, JS, HTML, CSS
 - 💞️ I’m not looking for collabs at the moment.
 - 📫 Reach out via email at calebcunningham1@gmail.com
